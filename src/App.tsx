@@ -7,7 +7,7 @@ import {
   Package,
   BarChart3,
   Calendar as CalendarIcon,
-  LogOut,
+  {/*LogOut,*/}
   Plus,
   Edit2,
   Trash2,
